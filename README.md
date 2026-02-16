@@ -69,4 +69,4 @@ Requirements:
 </ol>
 
 <h3>UML Class Diagram:</h3>
-<img width="5475" height="2383" alt="VM_UML" src="https://github.com/user-attachments/assets/7ecd9695-b486-4417-a6e5-c31db96f3d9b" />
+<img width="5379" height="2383" alt="VM_UML" src="https://github.com/user-attachments/assets/2dc028e7-fa46-4641-b2df-9a2eb6981ed5" />
